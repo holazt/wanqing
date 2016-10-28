@@ -42,6 +42,15 @@ var ap5 = new APlayer({
             url: './sound/Simply Three - Counting Stars.mp3',
           //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
           //  lrc: '回レ！雪月花.lrc'
+        },
+        {
+            title:  "I'm Always Here",
+            author: 'Kelly Donovan',
+            url: "./sound/ Kelly Donovan - I'm Always Here.mp3",
+          //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
+          //  lrc: '回レ！雪月花.lrc'
         }
+
+
     ]
 });
