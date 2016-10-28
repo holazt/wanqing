@@ -28,6 +28,20 @@ var ap5 = new APlayer({
             url: './sound/やなわらばー - 青い宝.mp3',
           //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
           //  lrc: '回レ！雪月花.lrc'
+        },
+        {
+            title: 'Refrain',
+            author: 'Anan Ryoko',
+            url: './sound/Anan Ryoko - Refrain.mp3',
+          //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
+          //  lrc: '回レ！雪月花.lrc'
+        },
+        {
+            title: 'Counting Stars',
+            author: 'Simply Three',
+            url: './sound/Simply Three - Counting Stars.mp3',
+          //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
+          //  lrc: '回レ！雪月花.lrc'
         }
     ]
 });
