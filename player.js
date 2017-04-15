@@ -49,6 +49,13 @@ var ap5 = new APlayer({
             url: "./sound/Kelly Donovan - I'm Always Here.mp3",
           //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
           //  lrc: '回レ！雪月花.lrc'
+        },
+        {
+            title:  "Big Big World",
+            author: 'Michael Cramtu',
+            url: "./sound/Michael Cramtu - Big Big World.mp3",
+          //  pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg',
+          //  lrc: '回レ！雪月花.lrc'
         }
 
 
